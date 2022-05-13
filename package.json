@@ -1,0 +1,23 @@
+{
+  "name": "loopylorries-bot",
+  "version": "1.0.0",
+  "description": "Loopy Lorries NFT Bot",
+  "main": "botLogin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zetty",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.12.0",
+    "@discordjs/rest": "^0.3.0",
+    "discord-api-types": "^0.26.1",
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "fs": "^0.0.1-security",
+    "ms": "^2.1.3",
+    "mysql": "^2.18.1",
+    "snekfetch": "^4.0.4",
+    "twit": "^2.2.11"
+  }
+}
